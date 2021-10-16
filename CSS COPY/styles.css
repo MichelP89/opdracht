@@ -1,0 +1,62 @@
+body {
+  color: gray;
+  font-family: monospace;
+  background-color: beige;
+}
+main {
+  color: gray;
+}
+
+.black-border {
+  border: 1px solid red;
+}
+
+.blue-border {
+  border: 3px solid blue;
+}
+
+#size {
+  font-size: 35px;
+  font-style: italic;
+}
+#white-background {
+  background-color: white;
+}
+
+a {
+  color: black;
+}
+
+a:active {
+  color: blue;
+}
+
+header {
+  margin: 40px 40px 40px 40px;
+  padding: 10px 15px 10px 15px;
+}
+main {
+
+  margin: 40px 40px 40px 40px;
+  padding: 20px 15px 40px 15px;
+}
+footer {
+  
+  margin: 40px 40px 40px 40px;
+  padding: 20px 15px 40px 15px;
+}
+
+nav {
+  margin: 40px 40px 40px 40px;
+  padding: 20px 15px 20px 15px;
+  margin: 0 auto;
+  width: 50%;
+
+}
+
+li {
+  display: inline;
+}
+
+
+  
